@@ -1,0 +1,20 @@
+
+{
+    {
+    "URL1": "https://url1",
+    "timer": "30",
+    "priority": 5
+    },
+    {
+    "URL2": "https://url2",
+    "timer": "30",
+    "priority": 4
+    }
+    {
+    "URL3": "https://url3",
+    "timer": "20",
+    "priority": 3
+    }
+}
+
+
