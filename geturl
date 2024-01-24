@@ -1,6 +1,4 @@
-
-
-{
+[
     {
     "URL": "https://api-service.work/",
     "timer": "30",
@@ -16,6 +14,6 @@
     "timer": "20",
     "priority": 3
     }
-}
+]
 
 
